@@ -6,6 +6,7 @@ public class App {
     public static void main(String[] args) throws Exception {
 
         // TODO: pegar a API da marvel para consumir
+        // TODO: organizar os arquivos em pastas
 
         // fazer uma conexao HTTP e buscar as fotos da nasa ou de filmes
         ExtratorDeConteudo extrator = new ExtratorDeConteudoDoIMDB();
