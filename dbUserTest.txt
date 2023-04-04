@@ -1,0 +1,4 @@
+dbUserTest
+test
+
+mongodb+srv://dbUserTest:test@cluster0.3f55wwn.mongodb.net/aluraDB?retryWrites=true&w=majority
